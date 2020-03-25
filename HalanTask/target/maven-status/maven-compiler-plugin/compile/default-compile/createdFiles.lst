@@ -1,0 +1,6 @@
+com\halan\service\UniquePattern.class
+com\halan\service\PalindromCeck.class
+com\halan\service\TransposeMatrix.class
+com\halan\manager\main.class
+com\halan\service\IndexOfFirstDuplicate.class
+com\halan\service\RunLengthEncoding.class
